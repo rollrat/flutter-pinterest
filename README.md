@@ -1,3 +1,3 @@
 # pinterestclone
 
-![](goal.gif)
+![](goal.webp)
